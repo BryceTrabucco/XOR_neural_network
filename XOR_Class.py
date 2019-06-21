@@ -1,3 +1,4 @@
+'''Author: Bryce Trabucco, Copyright 2019'''
 import numpy as np
 from numpy import random, dot, array
 
